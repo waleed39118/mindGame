@@ -53,7 +53,7 @@ brain-game/
 
 ---
 
-## To-Do (Optional Features)
+## To-Do In The Features
 
 - [ ] Add timer
 - [ ] Add score tracker
@@ -64,7 +64,8 @@ brain-game/
 
 ## Author
 
-- **Your Name**
+waleed39118
+
 - GitHub: [@waleed30118](https://github.com/waleed39118/mindGame.git)
 
 ---
