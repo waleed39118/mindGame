@@ -15,7 +15,7 @@ function handleCardClicked() {
 //! = false
 //return = dont do any action and prevent card double click
   if(!canClick || this.classList.contains("flip")) return;
-  // إضافة الكلاس flip لقلب البطاقة
+  // to flip card we add class
     this.classList.add("flip");
 
   if(!firstCard) {
