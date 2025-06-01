@@ -14,7 +14,8 @@ allCards.forEach((card) => {
 function handleCardClicked() { 
 //! = false
 //return = dont do any action and prevent card double click
-  if(!canClick || this.classList.contains("flip")) return;
+  if (!canClick) return;
+  if (this.classList.contains("flip")) return;
   // to flip card we add class
     this.classList.add("flip");
 
